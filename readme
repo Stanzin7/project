@@ -1,0 +1,164 @@
+Here is the script for the screens based on location. I hope this makes sense. We are still open to suggestions for changes. Please let me know if you think of anything else I can do to prepare until we hear from IT.
+
+ 
+
+ARC –
+
+Screen 1: “Welcome to the ARC, please swipe your student ID! If you don’t have your ID, please check in with the front desk staff.”
+
+ 
+
+Screen 2: “Hi, ‘student first name’. Do you have an appointment with one of our staff members today? – Yes or No”
+
+ 
+
+Screen 3: Yes= “Great, please let us know with whom you are scheduled to meet.”
+
+Options:
+
+Nicole Willis
+
+Molly Mundt
+
+Jan Simpson
+
+Jessica Herrmeyer
+
+ARC Peer
+
+Testing
+
+No= “We’re so glad you stopped into the ARC! Please check in with the front desk staff to see if someone is available at this time or arrange a meeting.”
+
+ 
+
+Screen 4: Nicole Willis, Molly Mundt, Jan Simpson, Jessica Herrmeyer= “Please make yourself comfortable and ‘staff name’ will be with you shortly.”
+
+                        ARC Peer or Testing= “Please check in with the front desk staff to get started!”
+
+ 
+
+Kicks to staff member to enter reason for visit
+
+Options:
+
+                                    Academic advising
+
+                                    Academic support
+
+                                    At-Risk support
+
+                 Disability services
+
+                                    Mentoring
+
+                                    No show
+
+                                    Probation
+
+                 Prospective student
+
+                                    SAP
+
+                                    Supplemental Instruction
+
+                                    Test administration
+
+                                    Work study
+
+ 
+
+PLL -
+
+Screen 1: “Welcome to the PLL, please swipe your student ID! If you don’t have your ID, please check in with a staff member”
+
+ 
+
+Screen 2: “Hi, ‘student first name’. Do you have an appointment with one of our staff members today? – Yes or No”
+
+ 
+
+Screen 3: Yes= “Great, please let us know with whom you are scheduled to meet.”
+
+Options:
+
+WRSL Peer
+
+Math Lab Peer
+
+Study Table
+
+Dr. Q Richardson
+
+Other
+
+No= “We’re glad you stopped into the PLL! Please check in with the staff to see if someone is available at this time or arrange a meeting.”
+
+ 
+
+Screen 4: WRSL Peer, Math Lab Peer, Other= “Please check in with a staff member to get started!”
+
+                        Dr. Q Richardson= “Please make yourself comfortable and Dr. Q will be with you shortly.”
+
+ 
+
+If meeting with Dr. Q, system kicks to him to enter reason for visit
+
+Options:
+
+                                    Academic advising
+
+                                    Academic support
+
+                                    At-Risk support
+
+Disability services
+
+                                    Mentoring
+
+                                    No show
+
+                                    Probation
+
+Prospective student
+
+                                    SAP
+
+                                    Supplemental Instruction
+
+                                    Test administration
+
+                                    Work study
+
+ 
+
+Tutor Labs –
+
+Screen 1: “Welcome to the Bio/Chem Tutor Lab, please swipe your student ID! If you don’t have your ID, please let a tutor know.”
+
+ 
+
+Screen 2: “Hi, ‘student first name’. Please select the course(s) for which you are here.”
+
+                        Options:
+
+                                    BIO 151 Biology I
+
+                                    BIO 152 Biology II
+
+                                    BIO 211 Genetics
+
+                                    CH 113 Principles of Chemistry I       
+
+                                    CH 114 Principles of Chemistry II
+
+     CH 211 Organic Chemistry I
+
+                                    CH 212 Organic Chemistry II
+
+                                    Other
+
+                                   
+
+Screen 3: “We’re so glad you stopped into the Tutor Lab! Please find a tutor for your course and they will be happy to assist you!”
+

@@ -1,0 +1,18 @@
+{
+  "CardNum": 1231476,
+  "name": "Stanzin",
+  "image": "img/person-1.jpg",
+  "description": "Hello I am Stanzin. I am a student at the Wartburg. I am a Computer Science major and I am also a part of the varsity soccer team. I am from India and I love to play soccer and video games. I am also a huge fan of the TV show Friends.",
+  "office": "Academic Resource Center",
+  "workers": {
+    "Henrique": {
+      "services": ["Tutoring", "Writing Assistance", "Study Groups"],
+      "image": "img/person-1.jpg"
+    },
+    "John": {
+      "services": ["Research"],
+      "image": "img/person-2.jpg"
+    }
+  },
+  "NoWorkers": null
+}

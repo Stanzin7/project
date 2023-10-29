@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+  flex-direction: column;
+}
+
+#logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 10vw;
+  height: auto;
+}
+
+.card-swipe {
+  font-weight: 800;
+  color: #000000;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ddd;
+  padding: 60px;
+  max-width: 500px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.container h1 {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.container p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#serviceContainer img {
+  border-radius: 50%; /* To make the image circular, if you desire */
+  margin-bottom: 20px; /* Some spacing beneath the image */
+}
+
+/* Add a class for the user info box */
+.user-info-box {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.user-info-box img {
+  max-width: 100px; /* Adjust the image size as needed */
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.user-info-box h1 {
+  font-size: 24px;
+}
+
+.user-info-box p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* Style for worker buttons (if needed) */
+.worker-btn {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
